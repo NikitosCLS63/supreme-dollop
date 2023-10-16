@@ -11,7 +11,7 @@ internal class Program
     static void Main(string[] args)
     {
         Console.WriteLine("F1 и F2 - переключение  октав.");
-        Console.WriteLine("С q по y - белые клавиши, с a по j - чёрные.");
+        Console.WriteLine("С q по y - белые клавиши, с a по g - чёрные.");
         Console.WriteLine("Первая октава.");
         destOkt = oneOkt;
         do
